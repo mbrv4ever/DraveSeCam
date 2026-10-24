@@ -2,6 +2,12 @@
 
 Lokale, offline bewakingscamera.
 
+## ðŸŽ¬ Uitlegvideo
+
+[![Uitlegvideo DraveSeCam](https://dravenlock.nl/video/DraveSeCam.jpg)](https://dravenlock.nl/video/DraveSeCam.mp4)
+
+[â–¶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveSeCam.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Systeem en beveiliging · versie 0.6.4*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
